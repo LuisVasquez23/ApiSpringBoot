@@ -13,6 +13,6 @@ Este proyecto presenta un CRUD (Create, Read, Update, Delete) básico usando Spr
 
 ## Documentación de la API con Swagger
 
-Se ha integrado Swagger para generar documentación interactiva de la API. Puedes acceder a ella en la siguiente URL:
+Se ha integrado Swagger para generar documentación interactiva de la API. Puedes acceder a ella en la siguiente URL al momento de levantar tu proyecto de forma local:
 
 * **URL:** http://localhost:8080/swagger-ui/index.html
